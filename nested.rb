@@ -106,7 +106,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-[:yukihiro_matsumoto]
+[:yukihiro_matsumoto][:languages]
 end
 
 def adding_to_dennis
