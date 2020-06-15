@@ -58,7 +58,7 @@ def dennis_ritchies_language
 				:languages => ["LISP","C"]
 			}
     }
-
+[:yukihiro_matsumoto]
 end
 
 def adding_matz
