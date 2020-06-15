@@ -54,7 +54,7 @@ def dennis_ritchies_language
         :languages => ["C"]
       },
       :yukihiro_matsumoto => {
-				:known_for=> "Ruby"
+				:known_for=> "Ruby",
 				:languages => ["LISP","C"]
 			}
     }
