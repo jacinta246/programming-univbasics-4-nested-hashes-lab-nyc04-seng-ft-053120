@@ -51,8 +51,8 @@ def dennis_ritchies_language
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["C"]}
-
+        :languages => ["C"]
+       }
 [:dennis_ritchie][:languages][0]
 
 def adding_matz
