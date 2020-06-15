@@ -55,7 +55,7 @@ def dennis_ritchies_language
       },
       :yukihiro_matsumoto => {
 				:known_for=> "Ruby"
-				:languages =>
+				:languages => ["li"]
 			}
     }
 
